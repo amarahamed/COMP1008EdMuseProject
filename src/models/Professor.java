@@ -49,8 +49,8 @@ public class Professor extends Person{
         }
     }
 
-    public void setTeachable(ArrayList<String> teachable) {
+   /* public void setTeachable(ArrayList<String> teachable) {
         this.teachable = teachable;
-    }
+    }*/
 }
 

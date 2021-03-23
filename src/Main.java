@@ -26,7 +26,6 @@ public class Main extends Application {
 //        }
         launch(args);
     }
-
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("views/dashboardView.fxml"));
